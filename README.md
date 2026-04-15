@@ -17,4 +17,5 @@ In it, you will see an step-by-step improvement of our classifier.
 # Other references
 
 - [Collection](https://github.com/HyperdimensionalComputing/collection): This repo contains a list with several projects using HDC.
-- 
+- [Hyperdimensional Computing/Vector Symbolic Architectures](https://www.hd-computing.com/)
+- [Tutorial on HDC](https://michielstock.github.io/blog/posts/2022/2022-10-04-HDVtutorial/notebook.html)
