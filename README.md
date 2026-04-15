@@ -10,6 +10,9 @@ Its main components are:
 # Example
 
 This repo contains an simple example of "training" a HDC to classify the images on CIFAR-10.
+Open this [notebook](HDC_for_Image_Classification_on_CIFAR_10.ipynb).
+In it, you will see an step-by-step improvement of our classifier.
+
 
 # Other references
 
